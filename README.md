@@ -5,6 +5,7 @@ melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 ###
 
 Desain Kelas:
+
 ![desainLP2](https://github.com/rifannylyst/LP2DPBO2024C2/assets/147616851/902ba24c-b753-46aa-a467-0dc909c25081)
 
 Desain Program:
